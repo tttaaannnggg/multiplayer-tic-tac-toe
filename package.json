@@ -1,0 +1,26 @@
+{
+  "name": "multiplayer-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "boredom strikes",
+  "main": "index.js",
+  "scripts": {
+    "server": "node ./server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterlingdeng/multiplayer-tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sterlingdeng/multiplayer-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/sterlingdeng/multiplayer-tic-tac-toe#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
